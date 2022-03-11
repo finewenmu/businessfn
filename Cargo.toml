@@ -1,8 +1,8 @@
 [package]
 name = "businessfn"
 description = "Some custom function libraries for business development"
-documentation = ""
-homepage=""
+documentation = "https://github.com/finewenmu/businessfn/blob/master/README.md"
+homepage="https://github.com/finewenmu/businessfn"
 version = "0.1.0"
 license = "MIT"
 edition = "2021"
