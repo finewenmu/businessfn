@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["array_columns","获取二维数组的列,返回一个包含该列所有值的一维数组"]]});
